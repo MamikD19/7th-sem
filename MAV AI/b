@@ -1,0 +1,2 @@
+i:-read(X),read(Y),Z is X+Y,write(Z).
+?-i.

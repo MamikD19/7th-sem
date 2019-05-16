@@ -1,0 +1,2 @@
+sum:-S:=0,read(N),repeat,read(Y),N:=N-1,S:=S+Y,N=0,write(S).
+?-sum.
